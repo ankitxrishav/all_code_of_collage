@@ -1,5 +1,7 @@
 # College AIML Projects & Lab Experiments
+---
 **AutoGenreatedReadme**
+---
 A comprehensive repository of college assignments, laboratory experiments, and learning resources focused on Artificial Intelligence, Machine Learning, and Data Structures.
 
 ## Repository Structure
